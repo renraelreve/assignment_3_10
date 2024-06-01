@@ -1,0 +1,7 @@
+2024-06-01T20:50:57.742+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-01T20:50:57.743+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-01T20:50:57.744+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-06-01T20:50:57.745+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-1] c.e.assignment_3_10.ProductController    : 🟢 get all products called
+2024-06-01T20:51:22.011+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-2] c.e.assignment_3_10.ProductController    : 🟢 create product called
+2024-06-01T20:51:39.419+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-3] c.e.assignment_3_10.ProductController    : 🟢 create product called
+2024-06-01T20:51:52.428+08:00  INFO 30010 --- [assignment_3_10] [http-nio-8080-exec-4] c.e.assignment_3_10.ProductController    : 🟢 get all products called
